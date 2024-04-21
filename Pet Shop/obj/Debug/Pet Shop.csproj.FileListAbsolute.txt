@@ -1,0 +1,56 @@
+C:\Users\sheik\OneDrive\Desktop\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe.config
+C:\Users\sheik\OneDrive\Desktop\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe
+C:\Users\sheik\OneDrive\Desktop\Pet Shop\Pet Shop\bin\Debug\Pet Shop.pdb
+C:\Users\sheik\OneDrive\Desktop\Pet Shop\Pet Shop\bin\Debug\Guna.UI2.dll
+C:\Users\sheik\OneDrive\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.AssemblyReference.cache
+C:\Users\sheik\OneDrive\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\sheik\OneDrive\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Properties.Resources.resources
+C:\Users\sheik\OneDrive\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.SplashForm.resources
+C:\Users\sheik\OneDrive\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.GenerateResource.cache
+C:\Users\sheik\OneDrive\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CoreCompileInputs.cache
+C:\Users\sheik\OneDrive\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CopyComplete
+C:\Users\sheik\OneDrive\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.exe
+C:\Users\sheik\OneDrive\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet Shop.pdb
+C:\Users\sheik\OneDrive\Desktop\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.btnLogin.resources
+D:\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe.config
+D:\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe
+D:\Pet Shop\Pet Shop\bin\Debug\Pet Shop.pdb
+D:\Pet Shop\Pet Shop\bin\Debug\Guna.UI2.dll
+D:\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.AssemblyReference.cache
+D:\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.SuggestedBindingRedirects.cache
+D:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.btnLogin.resources
+D:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Properties.Resources.resources
+D:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.SplashForm.resources
+D:\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.GenerateResource.cache
+D:\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CoreCompileInputs.cache
+D:\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CopyComplete
+D:\Pet Shop\Pet Shop\obj\Debug\Pet Shop.exe
+D:\Pet Shop\Pet Shop\obj\Debug\Pet Shop.pdb
+D:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.MainForm.resources
+G:\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe.config
+G:\Pet Shop\Pet Shop\bin\Debug\Pet Shop.exe
+G:\Pet Shop\Pet Shop\bin\Debug\Pet Shop.pdb
+G:\Pet Shop\Pet Shop\bin\Debug\Guna.UI2.dll
+G:\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.AssemblyReference.cache
+G:\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.SuggestedBindingRedirects.cache
+G:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.MainForm.resources
+G:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Properties.Resources.resources
+G:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.SplashForm.resources
+G:\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.GenerateResource.cache
+G:\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CoreCompileInputs.cache
+G:\Pet Shop\Pet Shop\obj\Debug\Pet Shop.csproj.CopyComplete
+G:\Pet Shop\Pet Shop\obj\Debug\Pet Shop.exe
+G:\Pet Shop\Pet Shop\obj\Debug\Pet Shop.pdb
+G:\Pet Shop\Pet Shop\bin\Debug\DatabasePetShop.mdf
+G:\Pet Shop\Pet Shop\bin\Debug\DatabasePetShop_log.ldf
+G:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.UserForm.resources
+G:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.UserModule.resources
+G:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.ProductForm.resources
+G:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.ProductModule.resources
+G:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.CustomerForm.resources
+G:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.CustomerModule.resources
+G:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.CashForm.resources
+G:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.CashProduct.resources
+G:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.CashCustomer.resources
+G:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.LoginForm.resources
+G:\Pet Shop\Pet Shop\obj\Debug\Pet_Shop.Home.resources
